@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": [
+    "src"
+  ],
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "gluonj.jar"
+  ]
+}
